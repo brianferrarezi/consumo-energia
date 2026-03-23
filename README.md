@@ -4,8 +4,8 @@ O programa solicita o **nome do aparelho**, a **potência do aparaelho em watts*
 
 
 ![Energy](https://img.shields.io/badge/Energia-%23FFD700.svg?style=for-the-badge&logo=power-plug&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  <div style="display: inline_block"><br>
- <img align="center" alt="Python" height="40" width="40"
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  <div style="display: inline_block"><br>   
+<img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" 
+ 
  
